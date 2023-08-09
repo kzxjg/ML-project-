@@ -1,2 +1,2 @@
 # ML-project-
-League of legends trend predictor using Linear Regression
+League of legends trend predictor using Linear Regression. League of Legends is a video game and the game has different champions. Since there are many champions in the game this means that there are some strong champions, and some weak ones. Therefore, the stronger ones will be more popular and weaker ones will be weaker. Champions can go from strong to weak depending on the meta. This is a predictor of the champion trend using linear regression. 
